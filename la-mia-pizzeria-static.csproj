@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Nuova cartella\" />
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
 </Project>
